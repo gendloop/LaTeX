@@ -1,0 +1,21 @@
+{
+    "latex-workshop.latex.recipes": [
+      {
+        "name": "latexmk",
+        "tools": [
+          "latexmk"
+        ]
+      },
+      {
+        "name": "pdflatex -> bibtex -> pdflatex * 2",
+        "tools": [
+          "pdflatex",
+          "bibtex",
+          "pdflatex",
+          "pdflatex"
+        ]
+      }
+    ],
+    "latex-workshop.latex.outDir": "%DIR%/build",
+    "latex-workshop.view.pdf.zoom": "auto",
+  }
