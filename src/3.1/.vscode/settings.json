@@ -18,4 +18,5 @@
     ],
     "latex-workshop.latex.outDir": "%DIR%/build",
     "latex-workshop.view.pdf.zoom": "auto",
+    "latex-workshop.view.pdf.viewer": "browser",
   }
