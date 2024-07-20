@@ -16,7 +16,7 @@
             ]
         }
     ],
-    "latex-workshop.latex.outDir": "%DIR%/build",
+    "latex-workshop.latex.outDir": "build",
     "latex-workshop.view.pdf.zoom": "auto",
     "latex-workshop.view.pdf.viewer": "tab",
 }
